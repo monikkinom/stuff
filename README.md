@@ -4,3 +4,4 @@
 * [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law): Work expands so as to fill the time available for its completion
 * [Bias with online communication](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/): If content is neutral, we assume the tone is negative.
 * [Peter Pan Syndrome](https://en.wikipedia.org/wiki/Peter_Pan_syndrome): an inability to grow up or to engage in behaviour usually associated with adulthood.
+* [Bacteria can transfer genes horizontally](https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/genomics/advanced-gene-editing/transformation)
